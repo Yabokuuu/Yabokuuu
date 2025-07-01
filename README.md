@@ -58,9 +58,9 @@ Looking to gain hands-on experience by:
 
 ---
 
-![Olushola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olushola-Olateju&show_icons=true&theme=radical)
+![Olushola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yabokuuu&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olushola-Olateju&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yabokuuu&layout=compact&theme=radical)
 
 ---
 
