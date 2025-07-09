@@ -52,7 +52,7 @@ Looking to gain hands-on experience by:
 
 ## 🌐 Contact Me
 
-- 🔗 **Portfolio:** [self-updating-portfolio.vercel.app](https://self-updating-porfolio-b2m20kwlr-olushola-olatejus-projects.vercel.app)  
+- 🔗 **Portfolio:** [self-updating-portfolio.vercel.app](https://self-updating-porfolio-j7n53lu10-olushola-olatejus-projects.vercel.app)  
 - 💼 **LinkedIn:** [Olushola Olateju](https://www.linkedin.com/in/olushola-olateju/)  
 - 📧 **Email:** Olusholaolatejuuu@gmail.com
 
